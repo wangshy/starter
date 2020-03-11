@@ -1,0 +1,30 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.content {
+  text-align: center
+}
+.trigger-start {
+  font-size: 5em;
+  color: green;
+  border: 2px double;
+  width: 20em;
+  border-radius: 5px;
+}
+
+.trigger-stop {
+  font-size: 5em;
+  color: red;
+  border: 2px double;
+  width: 20em;
+  border-radius: 5px;
+}
+
+#count {
+  font-size: 5em;
+}
+
+#timer {
+  font-size: 2em;
+}
